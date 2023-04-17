@@ -8,4 +8,34 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/TANKWambo/TANKWambo_test.unity
     guid: 9a97f4c478efd404d968b50c4c45b52e
+  - enabled: 1
+    path: Assets/TANKWambo/Scenes/TANKWambo_Level1.unity
+    guid: c61744adf804ecd4eb6a13e856e4dc60
+  - enabled: 1
+    path: Assets/TANKWambo/Scenes/TANKWambo_Level2.unity
+    guid: 6158cf85674b42e4a8f0fbc3b99f58d1
+  - enabled: 1
+    path: Assets/TANKWambo/Scenes/TANKWambo_Level3.unity
+    guid: 59d2e5a72515ee647908181ce0375388
+  - enabled: 1
+    path: Assets/TANKWambo/Scenes/TANKWambo_Level4.unity
+    guid: bd219e162f1c7d84c800c16f12914eef
+  - enabled: 1
+    path: Assets/TANKWambo/Scenes/TANKWambo_Level5.unity
+    guid: fa2f843b05c49a14b8a35fc4d796eb21
+  - enabled: 1
+    path: Assets/TANKWambo/Scenes/TANKWambo_Level6.unity
+    guid: 32af2d84054f9b043a38731e7cb8cac1
+  - enabled: 1
+    path: Assets/TANKWambo/Scenes/TANKWambo_Level7.unity
+    guid: ac387d167b73f4c40b7dd0cf09cf591a
+  - enabled: 1
+    path: Assets/TANKWambo/Scenes/TANKWambo_Level8.unity
+    guid: ea170a5fa3dead44f8dfbae13d79b6d8
+  - enabled: 1
+    path: Assets/TANKWambo/Scenes/TANKWambo_Level9.unity
+    guid: 7b99514c683796f42b2b0b420673c739
+  - enabled: 1
+    path: Assets/TANKWambo/Scenes/TANKWambo_Level10.unity
+    guid: f55563dd9d0e26244a7f4e8a16299fd8
   m_configObjects: {}
